@@ -1,2 +1,2 @@
-config:
-  info: "userinfo-cmdspring-config"
+server:
+  port: 3344
